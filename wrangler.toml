@@ -1,0 +1,7 @@
+name = "image-gallery"
+main = "src/worker.js"
+compatibility_date = "2024-11-20"
+
+# Site configuration for serving static files from dist
+[site]
+bucket = "./dist"
