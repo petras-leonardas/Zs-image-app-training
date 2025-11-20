@@ -1,4 +1,4 @@
-name = "image-gallery"
+name = "zs-image-app-training"
 main = "src/worker.js"
 compatibility_date = "2024-11-20"
 
